@@ -1,10 +1,10 @@
-# Premkumar4512.github.io
+# momula-sirisha.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://Premkumar45.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://momula-sirisha.github.io).
 
 ## Author
 
-👤 **PREMKUMAR**
+👤 **momula-sirisha**
 
-* LinkedIn: [@Premkumar45](https://www.linkedin.com/in/bondla-premkumar-1b3358225)
-* GitHub: [@Premkumar45](https://github.com/Premkumar4512/Premkumar4512.github.io)
+* LinkedIn: [@momula-sirisha](http://www.linkedin.com/in/sirisha-momula-851a60218)
+* GitHub: [@momula-sirisha](https://github.com/momula-sirisha/momula-sirisha.github.io)
